@@ -6,6 +6,8 @@ References:
 
 [CodePulse](https://www.youtube.com/watch?v=Eythq9848Fg&list=PLZQftyCk7_SdoVexSmwy_tBgs7P0b97yD)
 
+[TheIvoryCoder](https://www.youtube.com/watch?v=HuVg1trQC64)
+
 [ruslanspivak](https://ruslanspivak.com/lsbasi-part1/)
 
 [geeksforgeeks](https://www.geeksforgeeks.org/how-to-create-a-programming-language-using-python/)
