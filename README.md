@@ -1,6 +1,6 @@
 # Eevee Custom Language
 
-Custom language created in python, created to learn how programming languages work
+Custom language created in python, created to learn how programming languages work, made with a guide
 
 References:
 
